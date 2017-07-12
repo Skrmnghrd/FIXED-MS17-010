@@ -9,6 +9,7 @@ import time
 #I just aligned the syntax and tried to make it have no errors :)
 #get yo ass some modules here https://github.com/worawit/MS17-010
 #~sk
+#if u found any issues, mail me . paulogrian@gmail.com
 '''
 MS17-010 exploit for Windows 7+ by sleepya
 
